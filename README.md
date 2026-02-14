@@ -9,4 +9,4 @@ You can train the model using train.py. You need to specify the dataset name and
 python train.py --dataset_name <name> --gpu <gpu_id> --hp_config <path_to_config>
 
 ## Note
-More comprehensive details, including pre-trained model weights, additional visualization tools, and extended documentation, will be made fully available upon the publication of the paper.
+All code required to reproduce the main results is already available; additional tools/weights will be released upon publication.
